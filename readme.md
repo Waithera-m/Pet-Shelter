@@ -17,7 +17,7 @@ You are free to suggest and improve the code. To makes your changes:
 * Create, add, commit, and push your changes to the branch
 * Create a pull request
 ## Demo
-You can view changes made to the website by visiting this working live demo: https://waithera-m.github.io/Band-Website/
+You can view changes made to the website by visiting this working live demo: https://waithera-m.github.io/Pet-Shelter/
 ### License
 *GNU GPLv3 license.*
 Copyright (c) 2020 **Waithera-m*
