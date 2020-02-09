@@ -12,7 +12,7 @@ body{
 }
 .parallax{
   background-image: url(https://bit.ly/2S9zkz7);
-  height:2000px;
+  height:2010px;
   background-attachment:fixed;
   background-position:center;
   background-repeat:no-repeat;
@@ -20,6 +20,8 @@ body{
 }
 .pets{
   float: left;
-  width:700px;
+  width:400px;
+  border:4px solid #BDAEC6;
+  background-color:#BDAEC6;
 }
 
