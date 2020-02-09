@@ -10,3 +10,11 @@ body{
   color:inherit;
   font-family: inherit;
 }
+.parallax{
+  background-image: url(https://bit.ly/2S9zkz7);
+  height: 2000px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
