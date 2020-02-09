@@ -1,7 +1,7 @@
 body{
   font-family:'trebuchet MS';
   background-image: url(https://bit.ly/2S9zkz7);
-  color:#FFFFFF;
+  color:#732C7B;
 }
 .name{
   text-align: center;
@@ -12,9 +12,14 @@ body{
 }
 .parallax{
   background-image: url(https://bit.ly/2S9zkz7);
-  height: 2000px;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  height:2000px;
+  background-attachment:fixed;
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:cover;
 }
+.pets{
+  float: left;
+  width:700px;
+}
+
