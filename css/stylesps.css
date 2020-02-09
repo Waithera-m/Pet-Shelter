@@ -1,6 +1,10 @@
+body{
+  font-family:'trebuchet MS';
+}
 .name{
   text-align: center;
   border: 4px solid #9C8AA5;
   background-color:#9C8AA5;
   color:#FFFFFF;
+  font-family: inherit;
 }
